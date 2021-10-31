@@ -1,0 +1,72 @@
+K:\difuri\3D\3D\bin\Debug\3D.exe.config
+K:\difuri\3D\3D\bin\Debug\3D.exe
+K:\difuri\3D\3D\bin\Debug\3D.pdb
+K:\difuri\3D\3D\bin\Debug\Tao.FreeGlut.dll
+K:\difuri\3D\3D\bin\Debug\Tao.OpenGl.dll
+K:\difuri\3D\3D\bin\Debug\Tao.Platform.Windows.dll
+K:\difuri\3D\3D\bin\Debug\Tao.FreeGlut.xml
+K:\difuri\3D\3D\bin\Debug\Tao.OpenGl.xml
+K:\difuri\3D\3D\bin\Debug\Tao.Platform.Windows.xml
+K:\difuri\3D\3D\obj\Debug\3D.csprojAssemblyReference.cache
+K:\difuri\3D\3D\obj\Debug\_3D.Form1.resources
+K:\difuri\3D\3D\obj\Debug\_3D.Properties.Resources.resources
+K:\difuri\3D\3D\obj\Debug\3D.csproj.GenerateResource.cache
+K:\difuri\3D\3D\obj\Debug\3D.csproj.CopyComplete
+K:\difuri\3D\3D\obj\Debug\3D.exe
+K:\difuri\3D\3D\obj\Debug\3D.pdb
+D:\difuri\3D\3D\bin\Debug\3D.exe.config
+D:\difuri\3D\3D\bin\Debug\3D.exe
+D:\difuri\3D\3D\bin\Debug\3D.pdb
+D:\difuri\3D\3D\bin\Debug\Tao.FreeGlut.xml
+D:\difuri\3D\3D\bin\Debug\Tao.OpenGl.xml
+D:\difuri\3D\3D\bin\Debug\Tao.Platform.Windows.xml
+D:\difuri\3D\3D\obj\Debug\3D.csprojAssemblyReference.cache
+D:\difuri\3D\3D\obj\Debug\_3D.Form1.resources
+D:\difuri\3D\3D\obj\Debug\_3D.Properties.Resources.resources
+D:\difuri\3D\3D\obj\Debug\3D.csproj.GenerateResource.cache
+D:\difuri\3D\3D\obj\Debug\3D.csproj.CoreCompileInputs.cache
+D:\difuri\3D\3D\obj\Debug\3D.csproj.CopyComplete
+D:\difuri\3D\3D\obj\Debug\3D.exe
+D:\difuri\3D\3D\obj\Debug\3D.pdb
+D:\Osipenko\3D\3D\bin\Debug\3D.exe.config
+D:\Osipenko\3D\3D\bin\Debug\3D.exe
+D:\Osipenko\3D\3D\bin\Debug\3D.pdb
+D:\Osipenko\3D\3D\bin\Debug\Tao.FreeGlut.xml
+D:\Osipenko\3D\3D\bin\Debug\Tao.OpenGl.xml
+D:\Osipenko\3D\3D\bin\Debug\Tao.Platform.Windows.xml
+D:\Osipenko\3D\3D\obj\Debug\3D.csproj.AssemblyReference.cache
+D:\Osipenko\3D\3D\obj\Debug\_3D.Form1.resources
+D:\Osipenko\3D\3D\obj\Debug\_3D.Properties.Resources.resources
+D:\Osipenko\3D\3D\obj\Debug\3D.csproj.GenerateResource.cache
+D:\Osipenko\3D\3D\obj\Debug\3D.csproj.CoreCompileInputs.cache
+D:\Osipenko\3D\3D\obj\Debug\3D.csproj.CopyComplete
+D:\Osipenko\3D\3D\obj\Debug\3D.exe
+D:\Osipenko\3D\3D\obj\Debug\3D.pdb
+D:\Osipenko\3D graph\3D\bin\Debug\3D.exe.config
+D:\Osipenko\3D graph\3D\bin\Debug\3D.exe
+D:\Osipenko\3D graph\3D\bin\Debug\3D.pdb
+D:\Osipenko\3D graph\3D\bin\Debug\Tao.FreeGlut.xml
+D:\Osipenko\3D graph\3D\bin\Debug\Tao.OpenGl.xml
+D:\Osipenko\3D graph\3D\bin\Debug\Tao.Platform.Windows.xml
+D:\Osipenko\3D graph\3D\obj\Debug\_3D.Form1.resources
+D:\Osipenko\3D graph\3D\obj\Debug\_3D.Properties.Resources.resources
+D:\Osipenko\3D graph\3D\obj\Debug\3D.csproj.GenerateResource.cache
+D:\Osipenko\3D graph\3D\obj\Debug\3D.csproj.CoreCompileInputs.cache
+D:\Osipenko\3D graph\3D\obj\Debug\3D.csproj.CopyComplete
+D:\Osipenko\3D graph\3D\obj\Debug\3D.exe
+D:\Osipenko\3D graph\3D\obj\Debug\3D.pdb
+D:\Osipenko\3D graph\3D\obj\Debug\3D.csprojAssemblyReference.cache
+D:\osip\4\3D\bin\Debug\3D.exe.config
+D:\osip\4\3D\bin\Debug\3D.exe
+D:\osip\4\3D\bin\Debug\3D.pdb
+D:\osip\4\3D\bin\Debug\Tao.FreeGlut.xml
+D:\osip\4\3D\bin\Debug\Tao.OpenGl.xml
+D:\osip\4\3D\bin\Debug\Tao.Platform.Windows.xml
+D:\osip\4\3D\obj\Debug\3D.csprojAssemblyReference.cache
+D:\osip\4\3D\obj\Debug\_3D.Form1.resources
+D:\osip\4\3D\obj\Debug\_3D.Properties.Resources.resources
+D:\osip\4\3D\obj\Debug\3D.csproj.GenerateResource.cache
+D:\osip\4\3D\obj\Debug\3D.csproj.CoreCompileInputs.cache
+D:\osip\4\3D\obj\Debug\3D.csproj.CopyComplete
+D:\osip\4\3D\obj\Debug\3D.exe
+D:\osip\4\3D\obj\Debug\3D.pdb

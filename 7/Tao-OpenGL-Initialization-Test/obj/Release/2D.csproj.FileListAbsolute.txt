@@ -1,0 +1,11 @@
+D:\Osipenko\cards\Tao-OpenGL-Initialization-Test\obj\Release\2D.csprojAssemblyReference.cache
+D:\Osipenko\cards\Tao-OpenGL-Initialization-Test\obj\Release\Tao_OpenGL_Initialization_Test.Form1.resources
+D:\Osipenko\cards\Tao-OpenGL-Initialization-Test\obj\Release\Tao_OpenGL_Initialization_Test.Properties.Resources.resources
+D:\Osipenko\cards\Tao-OpenGL-Initialization-Test\obj\Release\2D.csproj.GenerateResource.cache
+D:\Osipenko\cards\Tao-OpenGL-Initialization-Test\obj\Release\2D.csproj.CoreCompileInputs.cache
+D:\Osipenko\cards\Tao-OpenGL-Initialization-Test\bin\Release\Tao-OpenGL-Initialization-Test.exe.config
+D:\Osipenko\cards\Tao-OpenGL-Initialization-Test\bin\Release\Tao-OpenGL-Initialization-Test.exe
+D:\Osipenko\cards\Tao-OpenGL-Initialization-Test\bin\Release\Tao-OpenGL-Initialization-Test.pdb
+D:\Osipenko\cards\Tao-OpenGL-Initialization-Test\obj\Release\2D.csproj.CopyComplete
+D:\Osipenko\cards\Tao-OpenGL-Initialization-Test\obj\Release\Tao-OpenGL-Initialization-Test.exe
+D:\Osipenko\cards\Tao-OpenGL-Initialization-Test\obj\Release\Tao-OpenGL-Initialization-Test.pdb

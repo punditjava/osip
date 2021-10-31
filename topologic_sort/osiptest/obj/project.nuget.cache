@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GLkNOr89ZewevcvaGbhCDclwYc5Etaxc964YChRV28JrDY1FGOpSb2h5sUuqOImyjDZ4d7svdHeIqgT9zmxilQ==",
+  "success": true,
+  "projectFilePath": "D:\\osip\\topologic_sort\\osiptest\\osiptest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\andr6\\.nuget\\packages\\mathnet.numerics\\4.15.0\\mathnet.numerics.4.15.0.nupkg.sha512"
+  ],
+  "logs": []
+}

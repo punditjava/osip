@@ -1,0 +1,14 @@
+D:\Osipenko\2D\Tao-OpenGL-Initialization-Test\bin\Debug\Tao-OpenGL-Initialization-Test.exe.config
+D:\Osipenko\2D\Tao-OpenGL-Initialization-Test\bin\Debug\Tao-OpenGL-Initialization-Test.exe
+D:\Osipenko\2D\Tao-OpenGL-Initialization-Test\bin\Debug\Tao-OpenGL-Initialization-Test.pdb
+D:\Osipenko\2D\Tao-OpenGL-Initialization-Test\bin\Debug\Tao.FreeGlut.xml
+D:\Osipenko\2D\Tao-OpenGL-Initialization-Test\bin\Debug\Tao.OpenGl.xml
+D:\Osipenko\2D\Tao-OpenGL-Initialization-Test\bin\Debug\Tao.Platform.Windows.xml
+D:\Osipenko\2D\Tao-OpenGL-Initialization-Test\obj\Debug\2D.csproj.AssemblyReference.cache
+D:\Osipenko\2D\Tao-OpenGL-Initialization-Test\obj\Debug\Tao_OpenGL_Initialization_Test.Form1.resources
+D:\Osipenko\2D\Tao-OpenGL-Initialization-Test\obj\Debug\Tao_OpenGL_Initialization_Test.Properties.Resources.resources
+D:\Osipenko\2D\Tao-OpenGL-Initialization-Test\obj\Debug\2D.csproj.GenerateResource.cache
+D:\Osipenko\2D\Tao-OpenGL-Initialization-Test\obj\Debug\2D.csproj.CoreCompileInputs.cache
+D:\Osipenko\2D\Tao-OpenGL-Initialization-Test\obj\Debug\2D.csproj.CopyComplete
+D:\Osipenko\2D\Tao-OpenGL-Initialization-Test\obj\Debug\Tao-OpenGL-Initialization-Test.exe
+D:\Osipenko\2D\Tao-OpenGL-Initialization-Test\obj\Debug\Tao-OpenGL-Initialization-Test.pdb
