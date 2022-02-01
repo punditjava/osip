@@ -1,0 +1,13 @@
+D:\Osipenko\diplom\3D\obj\Release\3D.csprojAssemblyReference.cache
+D:\Osipenko\diplom\3D\obj\Release\_3D.Form1.resources
+D:\Osipenko\diplom\3D\obj\Release\_3D.Properties.Resources.resources
+D:\Osipenko\diplom\3D\obj\Release\3D.csproj.GenerateResource.cache
+D:\Osipenko\diplom\3D\obj\Release\3D.csproj.CoreCompileInputs.cache
+D:\Osipenko\diplom\3D\bin\Release\3D.exe.config
+D:\Osipenko\diplom\3D\bin\Release\3D.exe
+D:\Osipenko\diplom\3D\bin\Release\3D.pdb
+D:\Osipenko\diplom\3D\bin\Release\MathNet.Numerics.dll
+D:\Osipenko\diplom\3D\bin\Release\MathNet.Numerics.xml
+D:\Osipenko\diplom\3D\obj\Release\3D.csproj.CopyComplete
+D:\Osipenko\diplom\3D\obj\Release\3D.exe
+D:\Osipenko\diplom\3D\obj\Release\3D.pdb
